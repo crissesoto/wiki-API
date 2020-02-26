@@ -9,11 +9,11 @@ link:
 
 ## Built With
 
-* [Node.js]
-* [Express]
-* [Moongoose]
-* [MongoDB]
-* [EJS]
+* Node.js
+* Express
+* Moongoose
+* MongoDB
+* EJS
 
 ## Authors
 
